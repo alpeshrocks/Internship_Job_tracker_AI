@@ -1,0 +1,19 @@
+{
+  "results": [
+    {
+      "title": "Software Engineer Intern",
+      "company": "Servify",
+      "location": "San Francisco, CA",
+      "employment_type": "Internship",
+      "remote": true,
+      "posted_at": "2025-10-03T09:00:00",
+      "apply_url": "https://indeed.com/viewjob?jk=abc",
+      "skills": [
+        "JavaScript",
+        "Node",
+        "React"
+      ],
+      "description": "Full-stack features and APIs."
+    }
+  ]
+}

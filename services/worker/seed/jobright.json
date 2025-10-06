@@ -1,0 +1,35 @@
+{
+  "results": [
+    {
+      "title": "Data Engineer Intern",
+      "company": "HPE",
+      "location": "Houston, TX",
+      "employment_type": "Internship",
+      "remote": false,
+      "posted_at": "2025-10-04T10:00:00",
+      "apply_url": "https://careers.hpe.com/job/123",
+      "skills": [
+        "Python",
+        "SQL",
+        "Airflow",
+        "AWS"
+      ],
+      "description": "Work on pipelines and data quality."
+    },
+    {
+      "title": "AI/ML Engineer Intern",
+      "company": "CapTech",
+      "location": "Richmond, VA",
+      "employment_type": "Internship",
+      "remote": true,
+      "posted_at": "2025-10-05T08:30:00",
+      "apply_url": "https://captechconsulting.com/jobs/456",
+      "skills": [
+        "PyTorch",
+        "LangChain",
+        "Vector DB"
+      ],
+      "description": "LLM apps and ML systems."
+    }
+  ]
+}

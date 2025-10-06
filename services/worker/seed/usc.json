@@ -1,0 +1,19 @@
+{
+  "results": [
+    {
+      "title": "Business Intelligence Intern",
+      "company": "USC ITS",
+      "location": "Los Angeles, CA",
+      "employment_type": "Internship",
+      "remote": false,
+      "posted_at": "2025-10-02T12:10:00",
+      "apply_url": "https://viterbi-usc.edu/careers/789",
+      "skills": [
+        "Power BI",
+        "SQL",
+        "DAX"
+      ],
+      "description": "Build dashboards for campus operations."
+    }
+  ]
+}
